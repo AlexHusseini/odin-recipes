@@ -1,0 +1,1 @@
+Im making a website that'll be consisting of a main index page which will have links to a few recipes. It's gonna just be solely HTML so there'll be no stylization yet until I incorporate CSS into this project. This is just to show the foundation of HTML incporated into a website.
